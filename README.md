@@ -103,12 +103,10 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 [TypeScript](https://docs.google.com/document/d/1Lxg0SkcKzBkARM3nzS-82xHZfqgDECJA9blTbIjaJTQ/edit?usp=sharing)
 
 
-# **17/9-Monday**
-###Complete Hand-in for Period-1
+# **16/9-SUNDAY**
+###Hand-in you code for Period-1
 
-**Period Milestones:**
-* Period Hand-in: Sunday (25/2) 16.00
-* [Hand-in Document](https://docs.google.com/spreadsheets/d/1BtxxLe2bFTc96rEaxE-D-UGFQC4Ir78xDF1JBINIUPc/edit?usp=sharing#)
+* [Hand-in Document](#) (TBD)
 ##### What is it I have to hand-in?
 Take (one more time) a look at the learning goals for this period (see link at the top).
 
