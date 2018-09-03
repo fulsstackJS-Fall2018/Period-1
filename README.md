@@ -84,7 +84,6 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * [Webpack exercises](https://docs.google.com/document/d/1PIMMeYPqN8Qzo4qsgjjuNAC0_15RIEVjD0DbBhcaP-0/edit?usp=sharing)
 
 **Slides** 
-* [es2015, Babel and Typescript](http://slides.mydemos.dk/es2015_typescript/es5VStypescript.html) 
 * [Webpack and module bundling](http://slides.mydemos.dk/webpack/webpack.html#1)
 
 # 10/9-Monday
