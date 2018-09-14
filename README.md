@@ -105,15 +105,15 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 
 
 # **16/9-SUNDAY**
-###Hand-in you code for Period-1
+### Hand-in you code for Period-1
 
-* [Hand-in Document](#) (TBD)
+* [Hand-in Document](https://docs.google.com/spreadsheets/d/1hNibUfcb-p1_123WTYMUZidJTAJjk9l42Uyi0pnM2EA/edit?usp=sharing) 
 ##### What is it I have to hand-in?
 Take (one more time) a look at the learning goals for this period (see link at the top).
 
-What you must hand-in is code examples you can use for those questions that requires example code.
+What you must hand-in is code examples to support learning-goals/questions that requires code
 
-How much do I have to hand-in - depends on your ambitions (2..12)
+**How much do I have to hand-in** - depends on your ambitions (2..12)
 
 
 
