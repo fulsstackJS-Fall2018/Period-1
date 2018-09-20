@@ -107,7 +107,7 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 # **16/9-SUNDAY**
 ### Hand-in you code for Period-1
 
-* [Hand-in Document](https://docs.google.com/spreadsheets/d/1hNibUfcb-p1_123WTYMUZidJTAJjk9l42Uyi0pnM2EA/edit?usp=sharing) 
+* [Hand-in Document](#) Closed, contact me for info, if you still want to hand-in 
 ##### What is it I have to hand-in?
 Take (one more time) a look at the learning goals for this period (see link at the top).
 
