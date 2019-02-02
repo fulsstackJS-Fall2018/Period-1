@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 
 async function serial(count) {
-  swappiPeople = [];
+  const swappiPeople = [];
   for (let i = 1; i < count; i++) {
     swappiPeople.push(
       //Observe the await 
@@ -11,7 +11,7 @@ async function serial(count) {
   console.log(swappiPeople.map(p=>p.name).join(", "));
 }
 async function parallel(count) {
-  swappiPeople = [];
+  const swappiPeople = [];
   for (let i = 1; i < count; i++) {
     swappiPeople.push(
       //Observe no await
